@@ -10,9 +10,8 @@
 
 int main(int argc, const char * argv[])
 {
-
-    // insert code here...
-    printf("Hello, World!\n");
+    int a = 8;
+    printf(" a stored it,s value is %p",&a);
     return 0;
 }
 
